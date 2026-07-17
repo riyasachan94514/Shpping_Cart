@@ -47,6 +47,17 @@ A desktop-based **Shopping Cart Management System** developed using **Java Swing
 
 ---
 
+# 📸 Application Preview
+
+<p align="center">
+  <img src="shopping-cart.png" alt="Shopping Cart Management System" width="1000"/>
+</p>
+
+<p align="center">
+  <em>Shopping Cart Management System built with Java Swing featuring user authentication, product categories, shopping cart, coupons, and checkout functionality.</em>
+</p>
+
+
 # 🛠️ Tech Stack
 
 - Java
